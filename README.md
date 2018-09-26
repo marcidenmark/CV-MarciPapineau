@@ -1,4 +1,5 @@
-MARCI PAPINEAU GOTTLIEB – Full stack developer with a focus on frontend development.
+# MARCI PAPINEAU GOTTLIEB –
+Full stack developer with a focus on frontend development.
 
 Recent projects (2016- today)
 Specialize in making websites and digital applications that work and look great.
