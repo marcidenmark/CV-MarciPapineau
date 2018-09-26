@@ -1,10 +1,10 @@
 # MARCI PAPINEAU GOTTLIEB –
-#### Full stack developer with a focus on frontend development.
+### Full stack developer with a focus on frontend development.
 
 RECENT PROJECTS (2016- today)
 Specialize in making websites and digital applications that work and look great.
 
-✪ MarciPapineau.com
+✪ **MarciPapineau.com**
   I design and code websites, applications, and digital prototypes. I work with technologies such as ReactJS, Ruby and Rails, HTML, CSS, User Interface, Wireframes, Bootstrap, Git, and Heroku, Illustrator, Indesign, Photoshop and Sketch information graphics.
 
 ✪ MatchMyThesis.com
